@@ -332,8 +332,8 @@ body{
 }
 
 .contactbox p{
-    font-size:20px ;
-    line-height:30px ;
+    font-size:0.8rem ;
+    line-height:1rem ;
     font-weight: 400;
     color: white;
 }
